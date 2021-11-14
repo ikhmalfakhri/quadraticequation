@@ -47,14 +47,7 @@ public class QuadraticEquation {
             System.out.println("x = " + r2);
             
         }
-        }
-        
-        
-        
-        
-       
-        
-        
+        }        
     }
     
 
